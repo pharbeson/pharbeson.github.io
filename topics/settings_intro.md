@@ -3,7 +3,7 @@ layout: topics
 title: "Settings Introduction"
 ---
 
-#CloudLock Settings
+# CloudLock Settings
 The CloudLock Settings panel contains the following the following tabs (you may not see all of these):
 
 *  Platforms - where you configure platforms to be protected by CloudLock
